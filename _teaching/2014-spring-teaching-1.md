@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "TAM 251 Introductory Solid Mechanics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Illinois Urbana-Champaign, MechSE"
+date: 2014 Summer
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Website: TAM 251 Introductory Solid Mechanics](https://courses.grainger.illinois.edu/tam251/su2022/index.html)
