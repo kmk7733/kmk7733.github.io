@@ -27,7 +27,7 @@ author:
   bio              : "Roboticist"
   location         : "Earth"
   employer         : "UIUC"
-  uri              : https://kmk7733.github.io
+  # uri              : https://kmk7733.github.io
   email            : "mk58@illinois.edu" 
 
   # Academic websites
